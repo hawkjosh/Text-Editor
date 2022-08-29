@@ -2,14 +2,12 @@
 
 ## Description
 
-In this challenge, I added configuration and logic to the provided source code to meet all acceptance criteria so the text-editor application functions correctly and meets all acceptance criteria given user interaction with the app. Additionally, this web app has been deployed using Heroku.
+In this challenge, I added configuration and logic to the provided source code to meet all acceptance criteria so the text-editor application functions correctly given user interaction both inside and outside of the browser. Additionally, this web app has been deployed using Heroku.
 
-## Screenshots
+## Screenshot
 
-![Screenshot of the application]()
+![Screenshot of the application](./img/module19_webapp_screenshot.png)
 
-![Screenshot of the application]()
+## Depoyed App Link
 
-## Video Preview Link
-
-To view a video preview of the application, [CLICK HERE]().
+To view a video preview of the application, [CLICK HERE](https://warm-caverns-76004.herokuapp.com/).
