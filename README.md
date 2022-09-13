@@ -1,4 +1,4 @@
-# module19-text-editor-challenge
+# Text-Editor
 
 ## Description
 
